@@ -1,6 +1,6 @@
 {
   "name": "com.phonegap.plugins.Puship",
-  "version": "com.phonegap.plugins.Puship",
+  "version": "1.0.8",
   "description": "https://github.com/oisin-corppop/PushPlugin",
   "license": "MIT"
 }
